@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crypto60d
+- 👋 Hi, I’m Eva
 - 👀 I’m interested in Web Development and Blockchain
 - 🌱 I’m currently learning JavaScript & SQL
 - 💞️ I’m looking to collaborate on projects where I can learn, also games admin/mod/dev and crypto-related projects
